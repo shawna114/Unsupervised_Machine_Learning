@@ -17,8 +17,8 @@ Determine if cryptocurrencies on the trading market can be grouped to create a c
 
 ## K-Means Cluster Analysis:
 
-
+![Elbow Curve Image](https://github.com/shawna114/Unsupervised_Machine_Learning/blob/main/Image/Elbow%20Curve.png)
 
 ## Determination:
 
-1. No distinct clustering could be visualized for cryptocurrency
+1. No distinct clustering could be visualized for cryptocurrency with TSNE or K-Means cluster analysis. I would not recommend classifying cryptocurrencies in this manner.
